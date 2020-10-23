@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![adjikpo's github stats](https://github-readme-stats.vercel.app/api?username=adjikpo)](https://github.com/adjikpo/github-readme-stats)
+
 <!--
 **adjikpo/adjikpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
