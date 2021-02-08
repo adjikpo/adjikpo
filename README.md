@@ -1,5 +1,9 @@
 
-[![adjikpo's github stats](https://github-readme-stats.vercel.app/api?username=adjikpo)](https://github.com/adjikpo/github-readme-stats)
+[![adjikpo's github stats](https://github-readme-stats.vercel.app/api?username=adjikpo&count_private=true)](https://github.com/adjikpo/github-readme-stats)
+<a href="https://github.com/adjikpo">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adjikpo&layout=compact" alt="adjikpo's github top languages" />
+</a>
+
 
 <!--
 **adjikpo/adjikpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
